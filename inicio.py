@@ -1,0 +1,1 @@
+print('Olá, pessoal! Meu nome é Cristina. Sejam bem-vindes!')
